@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Cosmoshooter.iml" filepath="$PROJECT_DIR$/.idea/Cosmoshooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pygames/.idea/Cosmoshooter.iml" filepath="$PROJECT_DIR$/../Pygames/.idea/Cosmoshooter.iml" />
     </modules>
   </component>
 </project>
